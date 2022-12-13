@@ -1,0 +1,166 @@
+<Document>
+    <title>Lucy Robillard - Projects</title>
+    <description>Some of the projects I have done, including Rust, C, and Java projects as well as more.</description>
+    <body>
+        &lt;h1>Projects&lt;/h1>
+        &lt;p>These are some of the projects that I have done.&lt;/p>
+    </body>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>Rust</title>
+        <summary>Click to see Rust projects</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>alARM Assembler</title>
+            <description>This is an alARM assembler I made in Rust for my computer architecture class. A project for that class required building a simulated alARM cpu, so I made an assembler for the cpu so I didn't have to hand assemble test programs.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/alarmas</href>
+                <text>github.com/larobitrumpet/alarmas</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Maze Generation Rust</title>
+            <description>This is similar to my maze generation application written in C. You can generate mazes with a variety of different algorithms. This application uses the Allegro game library to display the maze as it is being generated.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/maze-rs</href>
+                <text>github.com/larobitrumpet/maze-rs</text>
+            </link>
+        </entry>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>C</title>
+        <summary>Click to see C projects</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Maze Generation</title>
+            <description>This application can generate mazes with various maze generation algorithms. They are implemented using C and the application uses the Allegro game library to display the maze.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/maze</href>
+                <text>github.com/larobitrumpet/maze</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Map Age Guide</title>
+            <description>This is a command line program that uses the curses library. It will tell you the age of an undated map, (assuming it's complete, labeled in English, and detailed enough). It is an adaptation of xkcd comic 1688, &lt;a target="_blank" href="https://xkcd.com/1688">Map Age Guide&lt;/a>.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/map_age_guide</href>
+                <text>github.com/larobitrumpet/map_age_guide</text>
+            </link>
+        </entry>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>Java</title>
+        <summary>Click to see Java projects</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Creative Commons Image Search</title>
+            <description>This is a javafx application that search for images with Creative Commons licenses. I made it for the final of my Programming Concepts and Methedology II class.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Creative-Commons-Image-Search</href>
+                <text>github.com/larobitrumpet/Creative-Commons-Image-Search</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Words</title>
+            <description>This is a simple java command line application that finds the definitions of words from the Marriam-Webster dictionary. I made it for my Programing Concepts and Methedology II class.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Words</href>
+                <text>github.com/larobitrumpet/Words</text>
+            </link>
+        </entry>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>Tutor Training Final Project</title>
+        <link>
+            <href>problems.html</href>
+            <text>Computer Science Practice Problems</text>
+        </link>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>Python</title>
+        <summary>Click to see Python projects.</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Multi Board Tic Tac Toe Game with AI</title>
+            <description>This is a project that I created for the AP Computer Science Principles test. It is a python console application in which you can play tic tac toe with multiple boards. It can be played with 2 players or with an AI. It isn't so much and "AI" as an algorithm that can win whenever it is mathematically possible.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Multi_Board_Tic_Tac_Toe</href>
+                <text>github.com/larobitrumpet/Multi_Board_Tic_Tac_Toe</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Board Game</title>
+            <description>This is a simple board game that I built when I first started learning python. It is a console application in which you race against another player to get to the end. It includes a number of special spaces that do various things.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Board_Game</href>
+                <text>github.com/larobitrumpet/Board_Game</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Guessing Game</title>
+            <description>This is a simple python console application that I built when I was first learning Python. A number between 1 and 10 is picked at random. 2 players guess the number and who ever guesses the closest wins.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Guessing_Game</href>
+                <text>github.com/larobitrumpet/Guessing_Game</text>
+            </link>
+        </entry>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>HTML / CSS / JavaScript</title>
+        <summary>Click to see HTML, CSS, and JavaScript projects.</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Digital Character Sheet</title>
+            <description>This is a project I created for my Technology Innovation class. It is a web application that helps you create a Dungeons and Dragons 5th Edition character. It's goal is to help speed up the character creation process and to make that process easier for new player's to understand. Currently it is more of a proof of concept as there are many things that currently don't work correctly and there are some major features missing.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/Digital_Character_Sheet</href>
+                <text>github.com/larobitrumpet/Digital_Character_Sheet</text>
+            </link>
+        </entry>
+    </entry>
+    <entry>
+        <level>2</level>
+        <indent_num>3</indent_num>
+        <title>Scratch</title>
+        <summary>Click to see Scratch projects.</summary>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
+            <title>Scratch Game</title>
+            <description>This is a game I built in Scratch as part of my Introduction to Computer Science class. It is a dungeon crawler in which you make your way through the various levels of a dungeon. The description at the beginning implies that there is an end to the dungeon when in reality it goes on forever.</description>
+            <link>
+                <href>https://scratch.mit.edu/projects/215533658/</href>
+                <text>scratch.mit.edu/projects/215522658/</text>
+            </link>
+            <miscellanious>
+                &lt;iframe src="https://scratch.mit.edu/projects/215533658/embed" allowtransparency="flase" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen>&lt;/iframe>
+            </miscellanious>
+        </entry>
+    </entry>
+</Document>

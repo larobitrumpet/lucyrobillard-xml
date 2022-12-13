@@ -1,0 +1,8 @@
+<Document>
+    <title>Lucy Robillard - Home</title>
+    <description>My personal website where I have some of the projects I have done, some of my musical performances, and other things that I have done and created.</description>
+    <body>
+        &lt;h1>Welcome!&lt;/h1>
+        &lt;p>Hello, I'm Lucy. This is my personal website where you can find some of the things I have done and created. If you want to learn more about me, you can head over to &lt;a href="about.html">About&lt;/a>. If you want to see some of the projects I have done, head over to &lt;a href="projects.html">Projects&lt;/a>. If you want to see some of my musical performances, head over to &lt;a href="music.html">Music&lt;/a>. I am a notary public in California, and if you want to know about my notary work, head over to &lt;a href="notary.html">Notary&lt;/a>. If are an employer that might want to hire me, you can view my résumé over at &lt;a href="resume.html">Résumé&lt;/a>.&lt;/p>
+    </body>
+</Document>
