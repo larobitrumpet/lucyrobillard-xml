@@ -13,8 +13,12 @@
             &lt;p style="text-align: center;">If you have a ProtonMail account and want to use that, you can email: &lt;a href="mailto:larobitrumpet@protonmail.com">larobitrumpet@protonmail.com&lt;/a>&lt;/p>
             &lt;p style="text-align: center;">My GitHub can be found here: &lt;a target="blank_" href="https://github.com/larobitrumpet">github.com/larobitrumpet&lt;/a>&lt;/p>
             &lt;p style="text-align: center;">My public GPG key can be found here: &lt;a target="blank_" href="pubkey.txt">GPG key&lt;/a>.
+            &lt;p>You can run this command to automatically download my GPG key and add it to your keyring:&lt;/p>
+            &lt;pre>&lt;code>curl -L https://lucyrobillard.xyz/pubkey.txt | gpg --import&lt;/code>&lt;/pre>
         &lt;/div>
-        &lt;p>You can run this command to automatically download my GPG key and add it to your keyring:&lt;/p>
-        &lt;pre>&lt;code>curl -L https://lucyrobillard.xyz/pubkey.txt | gpg --import&lt;/code>&lt;/pre>
+        &lt;div style="text-align: center;">
+            &lt;h1>Social Media&lt;/h1>
+            &lt;p style="text-align: center;">Mastodon: &lt;a rel="me" href="https://tech.lgbt/@larobitrumpet">@larobitrumpet@tech.lgbt&lt;/a>&lt;p>
+        &lt;/div>
     </body>
 </Document>
