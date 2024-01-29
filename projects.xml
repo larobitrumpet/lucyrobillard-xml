@@ -49,6 +49,16 @@
         <entry>
             <level>3</level>
             <indent_num>6</indent_num>
+            <title>Minesweeper Wave Function Collapse</title>
+            <description>Program that solves Minesweeper using a wave function collapse like method. The user enters in squares and the surrounding squares update to show the new possibilities.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/minesweeper-wfc</href>
+                <text>github.com/larobitrumpet/minesweeper-wfc</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
             <title>Maze Generation</title>
             <description>This application can generate mazes with various maze generation algorithms. They are implemented using C and the application uses the Allegro game library to display the maze.</description>
             <link>
