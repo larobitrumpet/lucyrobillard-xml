@@ -49,6 +49,16 @@
         <entry>
             <level>3</level>
             <indent_num>6</indent_num>
+            <title>Chess</title>
+            <description>It's chess. You can make moves by clicking or entering algebraic notation. Prints out algebraic notation.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/chess</href>
+                <text>github.com/larobitrumpet/chess</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
             <title>Minesweeper Wave Function Collapse</title>
             <description>Program that solves Minesweeper using a wave function collapse like method. The user enters in squares and the surrounding squares update to show the new possibilities.</description>
             <link>
