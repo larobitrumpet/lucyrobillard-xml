@@ -13,6 +13,16 @@
         <entry>
             <level>3</level>
             <indent_num>6</indent_num>
+            <title>Wordle</title>
+            <description>This is a little program that solves Wordle. Give it the colors that Wordle gives you, and it'll suggest an optimal word.</description>
+            <link>
+                <href>https://github.com/larobitrumpet/wordle</href>
+                <text>github.com/larobitrumpet/wordle</text>
+            </link>
+        </entry>
+        <entry>
+            <level>3</level>
+            <indent_num>6</indent_num>
             <title>alARM Assembler</title>
             <description>This is an alARM assembler I made in Rust for my computer architecture class. A project for that class required building a simulated alARM cpu, so I made an assembler for the cpu so I didn't have to hand assemble test programs.</description>
             <link>
