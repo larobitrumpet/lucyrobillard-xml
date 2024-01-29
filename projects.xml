@@ -101,7 +101,7 @@
             <level>3</level>
             <indent_num>6</indent_num>
             <title>Multi Board Tic Tac Toe Game with AI</title>
-            <description>This is a project that I created for the AP Computer Science Principles test. It is a python console application in which you can play tic tac toe with multiple boards. It can be played with 2 players or with an AI. It isn't so much and "AI" as an algorithm that can win whenever it is mathematically possible.</description>
+            <description>This is a project that I created for the AP Computer Science Principles test. It is a python console application in which you can play tic tac toe with multiple boards. It can be played with 2 players or with an AI. It isn't so much an "AI" as an algorithm that can win whenever it is mathematically possible.</description>
             <link>
                 <href>https://github.com/larobitrumpet/Multi_Board_Tic_Tac_Toe</href>
                 <text>github.com/larobitrumpet/Multi_Board_Tic_Tac_Toe</text>
@@ -137,7 +137,7 @@
             <level>3</level>
             <indent_num>6</indent_num>
             <title>Digital Character Sheet</title>
-            <description>This is a project I created for my Technology Innovation class. It is a web application that helps you create a Dungeons and Dragons 5th Edition character. It's goal is to help speed up the character creation process and to make that process easier for new player's to understand. Currently it is more of a proof of concept as there are many things that currently don't work correctly and there are some major features missing.</description>
+            <description>This is a project I created for my Technology Innovation class. It is a web application that helps you create a Dungeons and Dragons 5th Edition character. Its goal is to help speed up the character creation process and to make that process easier for new players to understand. Currently it is more of a proof of concept as there are many things that currently don't work correctly and there are some major features missing.</description>
             <link>
                 <href>https://github.com/larobitrumpet/Digital_Character_Sheet</href>
                 <text>github.com/larobitrumpet/Digital_Character_Sheet</text>
