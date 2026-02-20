@@ -5,6 +5,22 @@
         &lt;h1>Projects&lt;/h1>
         &lt;p>These are some of the projects that I have done.&lt;/p>
     </body>
+	<entry>
+		<level>2</level>
+		<indent_num>3</indent_num>
+		<title>Writing</title>
+		<summary>Click to see writing projects</summary>
+		<entry>
+			<level>3</level>
+			<indent_num>6</indent_num>
+			<title>How to Get a Court Order to Change Your Legal Name and Gender Marker In California to Match Your Gender Identity For Adults</title>
+			<description>This is a guide I made for my technical writing class for transgender and gender non-conforming adults navigating getting a court order to change your legal name and gender marker in California, which is required for changing your name and gender marker on all your legal documents and IDs. I am not a lawyer, this is not legal advice.</description>
+			<link>
+				<href>how-to-get-a-court-order-to-change-your-legal-name-and-gender-marker-in-california-to-match-your-gender-identity-for-adults.pdf</href>
+				<text>how-to-get-a-court-order-to-change-your-legal-name-and-gender-marker-in-california-to-match-your-gender-identity-for-adults.pdf</text>
+			</link>
+		</entry>
+	</entry>
     <entry>
         <level>2</level>
         <indent_num>3</indent_num>
